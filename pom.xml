@@ -4,7 +4,7 @@
 
   <groupId>hgl</groupId>
   <artifactId>hglbean</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>hglbean</name>
